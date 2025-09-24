@@ -1,0 +1,6 @@
+D:\C-Sharp Project\C Sharp Project\C Sharp Project\bin\Debug\C Sharp Project.exe.config
+D:\C-Sharp Project\C Sharp Project\C Sharp Project\bin\Debug\C Sharp Project.exe
+D:\C-Sharp Project\C Sharp Project\C Sharp Project\bin\Debug\C Sharp Project.pdb
+D:\C-Sharp Project\C Sharp Project\C Sharp Project\obj\Debug\C Sharp Project.csprojResolveAssemblyReference.cache
+D:\C-Sharp Project\C Sharp Project\C Sharp Project\obj\Debug\C Sharp Project.exe
+D:\C-Sharp Project\C Sharp Project\C Sharp Project\obj\Debug\C Sharp Project.pdb
