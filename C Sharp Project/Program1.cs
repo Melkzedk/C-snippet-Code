@@ -8,7 +8,7 @@ namespace C_Sharp_Project
 {
     class Program1
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             try
             {
