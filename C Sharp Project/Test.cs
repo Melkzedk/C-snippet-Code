@@ -13,7 +13,7 @@ namespace C_Sharp_Project
             String name = "John Doe";
             int age = 20;
             int marks = 60;
-            Console.WriteLine(name + age);
+            Console.WriteLine(name + " is "   +age);
 
             if (marks > 40) {
                 Console.WriteLine("Passesd!!");
