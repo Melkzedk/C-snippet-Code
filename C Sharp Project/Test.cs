@@ -12,7 +12,8 @@ namespace C_Sharp_Project
         {
             String name = "John Doe";
             int age = 20;
-            Console.WriteLine(name + age);
+            int marks = 60;
+            Console.WriteLine(name + age + marks);
             Console.ReadLine();
         }
     }
