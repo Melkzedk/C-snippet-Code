@@ -8,7 +8,7 @@ namespace C_Sharp_Project
 {
     class Test
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             String name = "John Doe";
             int age = 20;
