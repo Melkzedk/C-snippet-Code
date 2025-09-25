@@ -14,7 +14,6 @@ namespace C_Sharp_Project
             int age = 20;
             int marks = 60;
             Console.WriteLine(name + age);
-            Console.ReadLine();
 
             if (marks > 40) {
                 Console.WriteLine("Passesd!!");
