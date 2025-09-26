@@ -23,7 +23,6 @@ namespace C_Sharp_Project
             else
             {
                 Console.WriteLine("Failed!!");
-                Console.ReadLine();
             }
         }
     }

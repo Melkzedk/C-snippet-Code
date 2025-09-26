@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 class Vehicle  // base class (parent) 
 {
     public string brand = "Ford";  // Vehicle field
-    public void honk()             // Vehicle method 
+    public void honk()             // Vehicle method w
     {
         Console.WriteLine("Tuut, tuut!");
     }
