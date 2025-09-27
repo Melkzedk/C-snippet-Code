@@ -24,6 +24,7 @@ namespace C_Sharp_Project
             {
                 Console.WriteLine("Failed!!");
                 Console.ReadLine();
+                Console.ReadLine();
             }
         }
     }
