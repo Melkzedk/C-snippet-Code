@@ -14,6 +14,7 @@ namespace C_Sharp_Project
             int age = 20;
             int marks = 60;
             int mark1 = 60;
+            string name = "Melk";
             Console.WriteLine(name + " is "   +age);
 
             if (marks > 40) {
