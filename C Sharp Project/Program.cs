@@ -39,7 +39,6 @@ namespace C_Sharp_Project
                     Console.WriteLine("Error!!");
                     Console.ReadLine();
                     break;
-                    break;
             }
         }
     }
