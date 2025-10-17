@@ -37,7 +37,7 @@ namespace C_Sharp_Project
                     break;
                     case 8:
                     Console.WriteLine("Funday");
-                    
+                    break;
                 default:
                     Console.WriteLine("Error!!");
                     Console.ReadLine();
