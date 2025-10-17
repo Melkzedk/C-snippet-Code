@@ -35,6 +35,9 @@ namespace C_Sharp_Project
                 case 7:
                     Console.WriteLine("Sunday");
                     break;
+                    case 8:
+                    Console.WriteLine("Funday");
+                    
                 default:
                     Console.WriteLine("Error!!");
                     Console.ReadLine();
