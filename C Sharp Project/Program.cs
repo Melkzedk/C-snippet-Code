@@ -39,7 +39,7 @@ namespace C_Sharp_Project
                     Console.WriteLine("Funday!!");
                     break;
                 default:
-                    Console.WriteLine("Error!!");
+                    Console.WriteLine("Error! The day is not valid.");
                     Console.ReadLine();
                     break;
             }
