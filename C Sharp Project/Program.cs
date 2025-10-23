@@ -1,4 +1,6 @@
-﻿using System;
+﻿// A simple C# program demonstrating the use of a switch statement
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
