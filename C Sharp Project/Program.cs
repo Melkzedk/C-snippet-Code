@@ -36,7 +36,7 @@ namespace C_Sharp_Project
                     Console.WriteLine("Sunday");
                     break;
                 case 8:
-                    Console.WriteLine("Funday!!");
+                    Console.WriteLine("Funday");
                     break;
                 default:
                     Console.WriteLine("Error! The day is not valid.");
